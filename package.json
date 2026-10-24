@@ -1,0 +1,76 @@
+{
+  "name": "luxury-car-rental-website",
+  "version": "1.0.0",
+  "description": "A website for rent luxury car",
+  "keywords": [
+    "Luxury",
+    "Car",
+    "Rental",
+    "MERN",
+    "Stack",
+    "Full-Stack",
+    "Web",
+    "Application",
+    "Car",
+    "Booking",
+    "System",
+    "Premium",
+    "Car",
+    "Rentals",
+    "MongoDB",
+    "Express.js",
+    "React.js",
+    "Node.js",
+    "REST",
+    "API",
+    "Mongoose",
+    "JWT",
+    "Authentication",
+    "bcryptjs",
+    "CORS",
+    "Nodemon",
+    "dotenv",
+    "Multer",
+    "User",
+    "Authentication",
+    "Booking",
+    "Management",
+    "Rental",
+    "Management",
+    "System",
+    "Responsive",
+    "Web",
+    "Design",
+    "JavaScript",
+    "Web",
+    "Development"
+  ],
+  "homepage": "https://github.com/techLifepersia2021/luxury-car-rental-website#readme",
+  "bugs": {
+    "url": "https://github.com/techLifepersia2021/luxury-car-rental-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techLifepersia2021/luxury-car-rental-website.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Ahmad Farajpour",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.4",
+    "multer": "^2.5.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
